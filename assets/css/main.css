@@ -353,7 +353,7 @@ input, select, textarea {
 		}
 
 		.row > .col-8 {
-			width: 100%;
+			width: 66.66667%;
 		}
 
 		.row > .off-8 {
@@ -1959,22 +1959,22 @@ input, select, textarea {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus-g {
-				background: #db6b67;
+			.icon.circle.fa-linkedin {
+				background: #7e6c8b;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus-g:hover {
-					background: #df7b77;
+				.icon.circle.fa-linkedin:hover {
+					background: #ae96c0;
 				}
 
 			.icon.circle.fa-github {
-				background: #dcad8b;
+				background: #7e6c8b;
 				color: #fff;
 			}
 
 				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+					background: #ae96c0;
 				}
 
 			.icon.circle.fa-dribbble {
@@ -2491,7 +2491,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #6a4674;
 				color: #fff;
 			}
 
